@@ -1,0 +1,8 @@
+F:\C#project\CShapeMethodExample\CShapeMethodExample\bin\Debug\CShapeMethodExample.exe.config
+F:\C#project\CShapeMethodExample\CShapeMethodExample\bin\Debug\CShapeMethodExample.exe
+F:\C#project\CShapeMethodExample\CShapeMethodExample\bin\Debug\CShapeMethodExample.pdb
+F:\C#project\CShapeMethodExample\CShapeMethodExample\obj\Debug\CShapeMethodExample.csproj.AssemblyReference.cache
+F:\C#project\CShapeMethodExample\CShapeMethodExample\obj\Debug\CShapeMethodExample.csproj.SuggestedBindingRedirects.cache
+F:\C#project\CShapeMethodExample\CShapeMethodExample\obj\Debug\CShapeMethodExample.csproj.CoreCompileInputs.cache
+F:\C#project\CShapeMethodExample\CShapeMethodExample\obj\Debug\CShapeMethodExample.exe
+F:\C#project\CShapeMethodExample\CShapeMethodExample\obj\Debug\CShapeMethodExample.pdb
