@@ -1,0 +1,8 @@
+F:\CShape学习\第四天（操作符）\Expression1\Expression1\bin\Debug\Expression1.exe.config
+F:\CShape学习\第四天（操作符）\Expression1\Expression1\bin\Debug\Expression1.exe
+F:\CShape学习\第四天（操作符）\Expression1\Expression1\bin\Debug\Expression1.pdb
+F:\CShape学习\第四天（操作符）\Expression1\Expression1\obj\Debug\Expression1.csproj.AssemblyReference.cache
+F:\CShape学习\第四天（操作符）\Expression1\Expression1\obj\Debug\Expression1.csproj.SuggestedBindingRedirects.cache
+F:\CShape学习\第四天（操作符）\Expression1\Expression1\obj\Debug\Expression1.csproj.CoreCompileInputs.cache
+F:\CShape学习\第四天（操作符）\Expression1\Expression1\obj\Debug\Expression1.exe
+F:\CShape学习\第四天（操作符）\Expression1\Expression1\obj\Debug\Expression1.pdb

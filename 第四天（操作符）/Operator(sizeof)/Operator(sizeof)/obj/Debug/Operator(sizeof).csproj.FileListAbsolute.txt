@@ -1,0 +1,8 @@
+F:\CShape学习\第四天（操作符）\Operator(sizeof)\Operator(sizeof)\bin\Debug\Operator(sizeof).exe.config
+F:\CShape学习\第四天（操作符）\Operator(sizeof)\Operator(sizeof)\bin\Debug\Operator(sizeof).exe
+F:\CShape学习\第四天（操作符）\Operator(sizeof)\Operator(sizeof)\bin\Debug\Operator(sizeof).pdb
+F:\CShape学习\第四天（操作符）\Operator(sizeof)\Operator(sizeof)\obj\Debug\Operator(sizeof).csproj.AssemblyReference.cache
+F:\CShape学习\第四天（操作符）\Operator(sizeof)\Operator(sizeof)\obj\Debug\Operator(sizeof).csproj.SuggestedBindingRedirects.cache
+F:\CShape学习\第四天（操作符）\Operator(sizeof)\Operator(sizeof)\obj\Debug\Operator(sizeof).csproj.CoreCompileInputs.cache
+F:\CShape学习\第四天（操作符）\Operator(sizeof)\Operator(sizeof)\obj\Debug\Operator(sizeof).exe
+F:\CShape学习\第四天（操作符）\Operator(sizeof)\Operator(sizeof)\obj\Debug\Operator(sizeof).pdb

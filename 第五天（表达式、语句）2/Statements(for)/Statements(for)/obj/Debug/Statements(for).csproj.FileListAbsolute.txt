@@ -1,0 +1,8 @@
+F:\CShape学习\第五天（表达式、语句）2\Statements(for)\Statements(for)\bin\Debug\Statements(for).exe.config
+F:\CShape学习\第五天（表达式、语句）2\Statements(for)\Statements(for)\bin\Debug\Statements(for).exe
+F:\CShape学习\第五天（表达式、语句）2\Statements(for)\Statements(for)\bin\Debug\Statements(for).pdb
+F:\CShape学习\第五天（表达式、语句）2\Statements(for)\Statements(for)\obj\Debug\Statements(for).csproj.AssemblyReference.cache
+F:\CShape学习\第五天（表达式、语句）2\Statements(for)\Statements(for)\obj\Debug\Statements(for).csproj.SuggestedBindingRedirects.cache
+F:\CShape学习\第五天（表达式、语句）2\Statements(for)\Statements(for)\obj\Debug\Statements(for).csproj.CoreCompileInputs.cache
+F:\CShape学习\第五天（表达式、语句）2\Statements(for)\Statements(for)\obj\Debug\Statements(for).exe
+F:\CShape学习\第五天（表达式、语句）2\Statements(for)\Statements(for)\obj\Debug\Statements(for).pdb

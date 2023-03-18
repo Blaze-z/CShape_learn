@@ -1,0 +1,8 @@
+F:\CShape学习\第四天（操作符）\OperatorExample\OperatorExample\bin\Debug\OperatorExample.exe.config
+F:\CShape学习\第四天（操作符）\OperatorExample\OperatorExample\bin\Debug\OperatorExample.exe
+F:\CShape学习\第四天（操作符）\OperatorExample\OperatorExample\bin\Debug\OperatorExample.pdb
+F:\CShape学习\第四天（操作符）\OperatorExample\OperatorExample\obj\Debug\OperatorExample.csproj.AssemblyReference.cache
+F:\CShape学习\第四天（操作符）\OperatorExample\OperatorExample\obj\Debug\OperatorExample.csproj.SuggestedBindingRedirects.cache
+F:\CShape学习\第四天（操作符）\OperatorExample\OperatorExample\obj\Debug\OperatorExample.csproj.CoreCompileInputs.cache
+F:\CShape学习\第四天（操作符）\OperatorExample\OperatorExample\obj\Debug\OperatorExample.exe
+F:\CShape学习\第四天（操作符）\OperatorExample\OperatorExample\obj\Debug\OperatorExample.pdb

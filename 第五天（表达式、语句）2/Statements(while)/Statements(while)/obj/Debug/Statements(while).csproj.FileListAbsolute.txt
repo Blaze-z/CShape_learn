@@ -1,0 +1,8 @@
+F:\CShape学习\第五天（表达式、语句）2\Statements(while)\Statements(while)\bin\Debug\Statements(while).exe.config
+F:\CShape学习\第五天（表达式、语句）2\Statements(while)\Statements(while)\bin\Debug\Statements(while).exe
+F:\CShape学习\第五天（表达式、语句）2\Statements(while)\Statements(while)\bin\Debug\Statements(while).pdb
+F:\CShape学习\第五天（表达式、语句）2\Statements(while)\Statements(while)\obj\Debug\Statements(while).csproj.AssemblyReference.cache
+F:\CShape学习\第五天（表达式、语句）2\Statements(while)\Statements(while)\obj\Debug\Statements(while).csproj.SuggestedBindingRedirects.cache
+F:\CShape学习\第五天（表达式、语句）2\Statements(while)\Statements(while)\obj\Debug\Statements(while).csproj.CoreCompileInputs.cache
+F:\CShape学习\第五天（表达式、语句）2\Statements(while)\Statements(while)\obj\Debug\Statements(while).exe
+F:\CShape学习\第五天（表达式、语句）2\Statements(while)\Statements(while)\obj\Debug\Statements(while).pdb

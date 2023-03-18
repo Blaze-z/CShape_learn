@@ -1,0 +1,16 @@
+F:\C#project\CreateOperator\CreateOperator\bin\Debug\CreateOperator.exe.config
+F:\C#project\CreateOperator\CreateOperator\bin\Debug\CreateOperator.exe
+F:\C#project\CreateOperator\CreateOperator\bin\Debug\CreateOperator.pdb
+F:\C#project\CreateOperator\CreateOperator\obj\Debug\CreateOperator.csproj.AssemblyReference.cache
+F:\C#project\CreateOperator\CreateOperator\obj\Debug\CreateOperator.csproj.SuggestedBindingRedirects.cache
+F:\C#project\CreateOperator\CreateOperator\obj\Debug\CreateOperator.csproj.CoreCompileInputs.cache
+F:\C#project\CreateOperator\CreateOperator\obj\Debug\CreateOperator.exe
+F:\C#project\CreateOperator\CreateOperator\obj\Debug\CreateOperator.pdb
+F:\CShape学习\第四天（操作符）\CreateOperator\CreateOperator\bin\Debug\CreateOperator.exe.config
+F:\CShape学习\第四天（操作符）\CreateOperator\CreateOperator\bin\Debug\CreateOperator.exe
+F:\CShape学习\第四天（操作符）\CreateOperator\CreateOperator\bin\Debug\CreateOperator.pdb
+F:\CShape学习\第四天（操作符）\CreateOperator\CreateOperator\obj\Debug\CreateOperator.csproj.AssemblyReference.cache
+F:\CShape学习\第四天（操作符）\CreateOperator\CreateOperator\obj\Debug\CreateOperator.csproj.SuggestedBindingRedirects.cache
+F:\CShape学习\第四天（操作符）\CreateOperator\CreateOperator\obj\Debug\CreateOperator.csproj.CoreCompileInputs.cache
+F:\CShape学习\第四天（操作符）\CreateOperator\CreateOperator\obj\Debug\CreateOperator.exe
+F:\CShape学习\第四天（操作符）\CreateOperator\CreateOperator\obj\Debug\CreateOperator.pdb

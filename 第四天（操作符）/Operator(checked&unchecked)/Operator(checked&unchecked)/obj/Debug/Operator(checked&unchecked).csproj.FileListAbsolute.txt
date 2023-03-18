@@ -1,0 +1,8 @@
+F:\CShape学习\第四天（操作符）\Operator(checked&unchecked)\Operator(checked&unchecked)\bin\Debug\Operator(checked&unchecked).exe.config
+F:\CShape学习\第四天（操作符）\Operator(checked&unchecked)\Operator(checked&unchecked)\bin\Debug\Operator(checked&unchecked).exe
+F:\CShape学习\第四天（操作符）\Operator(checked&unchecked)\Operator(checked&unchecked)\bin\Debug\Operator(checked&unchecked).pdb
+F:\CShape学习\第四天（操作符）\Operator(checked&unchecked)\Operator(checked&unchecked)\obj\Debug\Operator(checked&unchecked).csproj.AssemblyReference.cache
+F:\CShape学习\第四天（操作符）\Operator(checked&unchecked)\Operator(checked&unchecked)\obj\Debug\Operator(checked&unchecked).csproj.SuggestedBindingRedirects.cache
+F:\CShape学习\第四天（操作符）\Operator(checked&unchecked)\Operator(checked&unchecked)\obj\Debug\Operator(checked&unchecked).csproj.CoreCompileInputs.cache
+F:\CShape学习\第四天（操作符）\Operator(checked&unchecked)\Operator(checked&unchecked)\obj\Debug\Operator(checked&unchecked).exe
+F:\CShape学习\第四天（操作符）\Operator(checked&unchecked)\Operator(checked&unchecked)\obj\Debug\Operator(checked&unchecked).pdb

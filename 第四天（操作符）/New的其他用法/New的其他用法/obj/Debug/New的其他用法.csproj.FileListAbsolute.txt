@@ -1,0 +1,8 @@
+F:\CShape学习\第四天（操作符）\New的其他用法\New的其他用法\bin\Debug\New的其他用法.exe.config
+F:\CShape学习\第四天（操作符）\New的其他用法\New的其他用法\bin\Debug\New的其他用法.exe
+F:\CShape学习\第四天（操作符）\New的其他用法\New的其他用法\bin\Debug\New的其他用法.pdb
+F:\CShape学习\第四天（操作符）\New的其他用法\New的其他用法\obj\Debug\New的其他用法.csproj.AssemblyReference.cache
+F:\CShape学习\第四天（操作符）\New的其他用法\New的其他用法\obj\Debug\New的其他用法.csproj.SuggestedBindingRedirects.cache
+F:\CShape学习\第四天（操作符）\New的其他用法\New的其他用法\obj\Debug\New的其他用法.csproj.CoreCompileInputs.cache
+F:\CShape学习\第四天（操作符）\New的其他用法\New的其他用法\obj\Debug\New的其他用法.exe
+F:\CShape学习\第四天（操作符）\New的其他用法\New的其他用法\obj\Debug\New的其他用法.pdb

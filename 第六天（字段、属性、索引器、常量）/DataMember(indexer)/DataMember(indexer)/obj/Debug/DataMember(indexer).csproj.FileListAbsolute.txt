@@ -1,0 +1,8 @@
+F:\CShape学习\第六天（字段、属性、索引器、常量）\DataMember(indexer)\DataMember(indexer)\bin\Debug\DataMember(indexer).exe.config
+F:\CShape学习\第六天（字段、属性、索引器、常量）\DataMember(indexer)\DataMember(indexer)\bin\Debug\DataMember(indexer).exe
+F:\CShape学习\第六天（字段、属性、索引器、常量）\DataMember(indexer)\DataMember(indexer)\bin\Debug\DataMember(indexer).pdb
+F:\CShape学习\第六天（字段、属性、索引器、常量）\DataMember(indexer)\DataMember(indexer)\obj\Debug\DataMember(indexer).csproj.AssemblyReference.cache
+F:\CShape学习\第六天（字段、属性、索引器、常量）\DataMember(indexer)\DataMember(indexer)\obj\Debug\DataMember(indexer).csproj.SuggestedBindingRedirects.cache
+F:\CShape学习\第六天（字段、属性、索引器、常量）\DataMember(indexer)\DataMember(indexer)\obj\Debug\DataMember(indexer).csproj.CoreCompileInputs.cache
+F:\CShape学习\第六天（字段、属性、索引器、常量）\DataMember(indexer)\DataMember(indexer)\obj\Debug\DataMember(indexer).exe
+F:\CShape学习\第六天（字段、属性、索引器、常量）\DataMember(indexer)\DataMember(indexer)\obj\Debug\DataMember(indexer).pdb

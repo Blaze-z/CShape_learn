@@ -1,0 +1,8 @@
+F:\CShape学习\第六天（字段、属性、索引器、常量）\Arguments(this)\Arguments(this)\bin\Debug\Arguments(this).exe.config
+F:\CShape学习\第六天（字段、属性、索引器、常量）\Arguments(this)\Arguments(this)\bin\Debug\Arguments(this).exe
+F:\CShape学习\第六天（字段、属性、索引器、常量）\Arguments(this)\Arguments(this)\bin\Debug\Arguments(this).pdb
+F:\CShape学习\第六天（字段、属性、索引器、常量）\Arguments(this)\Arguments(this)\obj\Debug\Arguments(this).csproj.AssemblyReference.cache
+F:\CShape学习\第六天（字段、属性、索引器、常量）\Arguments(this)\Arguments(this)\obj\Debug\Arguments(this).csproj.SuggestedBindingRedirects.cache
+F:\CShape学习\第六天（字段、属性、索引器、常量）\Arguments(this)\Arguments(this)\obj\Debug\Arguments(this).csproj.CoreCompileInputs.cache
+F:\CShape学习\第六天（字段、属性、索引器、常量）\Arguments(this)\Arguments(this)\obj\Debug\Arguments(this).exe
+F:\CShape学习\第六天（字段、属性、索引器、常量）\Arguments(this)\Arguments(this)\obj\Debug\Arguments(this).pdb

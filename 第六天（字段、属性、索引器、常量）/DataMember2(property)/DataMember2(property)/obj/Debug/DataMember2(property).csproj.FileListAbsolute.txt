@@ -1,0 +1,8 @@
+F:\CShape学习\第五天（表达式、语句）2\DataMember2(property)\DataMember2(property)\bin\Debug\DataMember2(property).exe.config
+F:\CShape学习\第五天（表达式、语句）2\DataMember2(property)\DataMember2(property)\bin\Debug\DataMember2(property).exe
+F:\CShape学习\第五天（表达式、语句）2\DataMember2(property)\DataMember2(property)\bin\Debug\DataMember2(property).pdb
+F:\CShape学习\第五天（表达式、语句）2\DataMember2(property)\DataMember2(property)\obj\Debug\DataMember2(property).csproj.AssemblyReference.cache
+F:\CShape学习\第五天（表达式、语句）2\DataMember2(property)\DataMember2(property)\obj\Debug\DataMember2(property).csproj.SuggestedBindingRedirects.cache
+F:\CShape学习\第五天（表达式、语句）2\DataMember2(property)\DataMember2(property)\obj\Debug\DataMember2(property).csproj.CoreCompileInputs.cache
+F:\CShape学习\第五天（表达式、语句）2\DataMember2(property)\DataMember2(property)\obj\Debug\DataMember2(property).exe
+F:\CShape学习\第五天（表达式、语句）2\DataMember2(property)\DataMember2(property)\obj\Debug\DataMember2(property).pdb
