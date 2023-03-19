@@ -1,0 +1,8 @@
+F:\CShape学习\第七条（委托）\Delegate1\Delegate1\bin\Debug\Delegate1.exe.config
+F:\CShape学习\第七条（委托）\Delegate1\Delegate1\bin\Debug\Delegate1.exe
+F:\CShape学习\第七条（委托）\Delegate1\Delegate1\bin\Debug\Delegate1.pdb
+F:\CShape学习\第七条（委托）\Delegate1\Delegate1\obj\Debug\Delegate1.csproj.AssemblyReference.cache
+F:\CShape学习\第七条（委托）\Delegate1\Delegate1\obj\Debug\Delegate1.csproj.SuggestedBindingRedirects.cache
+F:\CShape学习\第七条（委托）\Delegate1\Delegate1\obj\Debug\Delegate1.csproj.CoreCompileInputs.cache
+F:\CShape学习\第七条（委托）\Delegate1\Delegate1\obj\Debug\Delegate1.exe
+F:\CShape学习\第七条（委托）\Delegate1\Delegate1\obj\Debug\Delegate1.pdb

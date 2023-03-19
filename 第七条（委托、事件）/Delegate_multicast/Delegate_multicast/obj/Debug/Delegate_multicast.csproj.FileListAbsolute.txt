@@ -1,0 +1,8 @@
+F:\CShape学习\第七条（委托）\Delegate_multicast\Delegate_multicast\bin\Debug\Delegate_multicast.exe.config
+F:\CShape学习\第七条（委托）\Delegate_multicast\Delegate_multicast\bin\Debug\Delegate_multicast.exe
+F:\CShape学习\第七条（委托）\Delegate_multicast\Delegate_multicast\bin\Debug\Delegate_multicast.pdb
+F:\CShape学习\第七条（委托）\Delegate_multicast\Delegate_multicast\obj\Debug\Delegate_multicast.csproj.AssemblyReference.cache
+F:\CShape学习\第七条（委托）\Delegate_multicast\Delegate_multicast\obj\Debug\Delegate_multicast.csproj.SuggestedBindingRedirects.cache
+F:\CShape学习\第七条（委托）\Delegate_multicast\Delegate_multicast\obj\Debug\Delegate_multicast.csproj.CoreCompileInputs.cache
+F:\CShape学习\第七条（委托）\Delegate_multicast\Delegate_multicast\obj\Debug\Delegate_multicast.exe
+F:\CShape学习\第七条（委托）\Delegate_multicast\Delegate_multicast\obj\Debug\Delegate_multicast.pdb
